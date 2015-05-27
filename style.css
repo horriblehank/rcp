@@ -1,0 +1,57 @@
+body {
+
+    background-color: #ebebeb;
+    font-family: Verdana, sans-serif;
+
+
+}
+
+#boxholder {
+
+    display: table-cell;
+    width: 100vw;
+    height: 100vh;
+    text-align: center;
+    background-color: transparent;
+    margin: auto;
+    vertical-align: middle;
+    
+
+}
+
+.colorbox {
+
+    background-color: #fff;
+    display: inline-block;
+    border-style: solid;
+    border-width: 5px;
+    border-radius: 10px;
+    width: 100px;
+    height: 100px;
+    line-height: 100px;
+    margin: 1px;
+    
+    
+
+}
+
+#black {
+
+    border-color: #000;
+    color: #000;
+    
+}
+
+#purple {
+
+    border-color: #8900a2;
+    color: #8900a2;
+
+}
+
+#orange {
+
+    border-color: #ffc014;
+    color: #ffc014;
+
+}
