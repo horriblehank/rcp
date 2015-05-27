@@ -2,8 +2,6 @@ body {
 
     background-color: #ebebeb;
     font-family: Verdana, sans-serif;
-
-
 }
 
 #boxholder {
@@ -29,9 +27,7 @@ body {
     width: 100px;
     height: 100px;
     line-height: 100px;
-    margin: 1px;
-    
-    
+    margin: 5px;
 
 }
 
@@ -42,10 +38,22 @@ body {
     
 }
 
+#black:hover {
+
+    background-color: #000;
+
+}
+
 #purple {
 
     border-color: #8900a2;
     color: #8900a2;
+
+}
+
+#purple:hover {
+
+    background-color: #8900a2;
 
 }
 
@@ -54,4 +62,10 @@ body {
     border-color: #ffc014;
     color: #ffc014;
 
+}
+
+#orange:hover {
+
+    background-color: #ffc014;
+    
 }
